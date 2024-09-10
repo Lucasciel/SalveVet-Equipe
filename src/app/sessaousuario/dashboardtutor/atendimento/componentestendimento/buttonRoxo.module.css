@@ -1,0 +1,10 @@
+.buttonRoxo {
+    padding: 10px;
+    color: white;
+    background-color: #5C2574;
+    border: none;
+    border-radius: 5px;
+    width: 24vh;
+    box-shadow: 0px 4px 13px -5px black;
+    text-transform: uppercase;
+}
